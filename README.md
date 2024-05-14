@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🤙 👋
 
-<!--
-**nakashima1231/nakashima1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriel Makiyama Nakashima
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Uilizo esse espaço para organização e compartilhação dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entrar em contato comigo 📫
+
+gabrielmnakashima2@gmail.com <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="15">
+
+@diamondcraft0 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" width="15">
+
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRqdHpqN3Qyc2NrbDhnMjJka2NseDE3cmNweGFsb2lzYm85cjRyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
