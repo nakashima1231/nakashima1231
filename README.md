@@ -2,8 +2,7 @@
 
 Meu nome é Gabriel Makiyama Nakashima
 
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript e Front-End
+- Atualmente cursando Análise e Desenvolvimento de Sistemas.
 - Uilizo esse espaço para organização e compartilhação dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo 📫
