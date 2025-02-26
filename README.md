@@ -9,6 +9,8 @@ Meu nome é Gabriel Makiyama Nakashima
 
 gabrielmnakashima2@gmail.com <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="15">
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nakashima1231%layout=compact%langs_count=6&theme=dark)
+
 
 
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRqdHpqN3Qyc2NrbDhnMjJka2NseDE3cmNweGFsb2lzYm85cjRyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
