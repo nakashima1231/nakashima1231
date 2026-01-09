@@ -13,6 +13,4 @@ Meu nome é Gabriel Makiyama NakashimaAtualmente <br>cursando Análise e Desenvo
 ![](https://nirzak-streak-stats.vercel.app/?user=nakashima1231&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nakashima1231&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nakashima1231&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRqdHpqN3Qyc2NrbDhnMjJka2NseDE3cmNweGFsb2lzYm85cjRyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
