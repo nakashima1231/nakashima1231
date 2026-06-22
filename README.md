@@ -7,9 +7,20 @@ Estudante de Análise e Desenvolvimento de Sistemas · Focado em back-end · Cur
 ## Sobre mim
 
 Estou no 3º semestre de ADS, construindo base sólida em lógica, estruturas de dados e banco de dados.
-Gosto mais de back-end, lógica, fluxo de dados — do que do que aparece na tela.
+Gosto mais do que acontece por baixo do capô — back-end, lógica, fluxo de dados — do que do que aparece na tela.
 
 Fora do código: jogos. Tanto jogar quanto entender como foram feitos.
+
+---
+
+## 🗂️ Projetos
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [🔐 nodejs-auth-jwt](https://github.com/nakashima1231/nodejs-auth-jwt) | API REST de autenticação com JWT, bcrypt e painel admin | Node.js · Express · MySQL |
+| [⚔️ CLI-DungeonCrawler](https://github.com/nakashima1231/CLI-DungeonCrawler) | RPG de texto com sistema de classes, dungeon aleatória e boss final | Python |
+| [🏓 Pong Game](https://github.com/nakashima1231/Pong_game) | Recriação do Pong com física 2D e colisão | C · Raylib |
+| [📚 Biblioteca de Animes](https://github.com/nakashima1231/Biblioteca-de-animes) | Gerenciador de lista de animes com persistência em arquivo binário | C |
 
 ---
 
