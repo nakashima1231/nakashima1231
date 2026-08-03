@@ -17,6 +17,7 @@ Fora do código: jogos. Tanto jogar quanto entender como foram feitos.
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| [📱Eye-Tracker](https://github.com/nakashima1231/eye-tracking) | Aplicativo para rastreamento ocular | Typescript |
 | [🔐 nodejs-auth-jwt](https://github.com/nakashima1231/nodejs-auth-jwt) | API REST de autenticação com JWT, bcrypt e painel admin | Node.js · Express · MySQL |
 | [⚔️ CLI-DungeonCrawler](https://github.com/nakashima1231/CLI-DungeonCrawler) | RPG de texto com sistema de classes, dungeon aleatória e boss final | Python |
 | [🏓 Pong Game](https://github.com/nakashima1231/Pong_game) | Recriação do Pong com física 2D e colisão | C · Raylib |
@@ -54,10 +55,10 @@ Fora do código: jogos. Tanto jogar quanto entender como foram feitos.
 
 Coisas que estou estudando ativamente neste semestre:
 
-- **Estrutura de Dados** — listas, pilhas, filas, árvores em C
-- **Banco de Dados** — modelagem relacional, SQL, normalização
-- **Desenvolvimento Web** — HTML, CSS e primeiros passos com JavaScript no front
+- **Programação orientada a objetos** — fundamentos da POO e SpringBoot em Java
+- **Desenvolvimento Web** — PHP
 - **Redes de Computadores** — fundamentos de protocolos e infraestrutura
+- **Unreal Engine** - Primeiros passos na Engine para criação de jogos próprios
 
 ---
 
