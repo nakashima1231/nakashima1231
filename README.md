@@ -6,7 +6,7 @@ Estudante de Análise e Desenvolvimento de Sistemas · Focado em back-end · Cur
 
 ## Sobre mim
 
-Estou no 3º semestre de ADS, construindo base sólida em lógica, estruturas de dados e banco de dados.
+Estou no 4º semestre de ADS, construindo base sólida em lógica, estruturas de dados e banco de dados.
 Gosto mais do que acontece por baixo do capô — back-end, lógica, fluxo de dados — do que do que aparece na tela.
 
 Fora do código: jogos. Tanto jogar quanto entender como foram feitos.
