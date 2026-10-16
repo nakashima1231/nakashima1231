@@ -11,6 +11,8 @@ Gosto mais do que acontece por baixo do capô — back-end, lógica, fluxo de da
 
 Fora do código: jogos. Tanto jogar quanto entender como foram feitos.
 
+🌐 **Portfólio Interativo:** [nakashima1231.github.io/portfolio](https://nakashima1231.github.io/portfolio)
+
 ---
 
 ## 🗂️ Projetos
